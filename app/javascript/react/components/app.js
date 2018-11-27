@@ -7,7 +7,6 @@ export const App = (props) => {
     <Router history={browserHistory}>
       <Route path='/' component={LeaguesIndexContainer} />
     </Router>
-
   )
 }
 
